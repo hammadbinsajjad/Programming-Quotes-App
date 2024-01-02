@@ -18,6 +18,10 @@ Run the following command and then scan the QR code with the Expo app on your ph
 npx expo start
 ```
 
+## API
+
+The API used is [Programming Quotes API](https://programming-quotesapi.vercel.app/) by [Omer Mohideen](https://github.com/OmerMohideen)
+
 
 ## Screenshots
 
