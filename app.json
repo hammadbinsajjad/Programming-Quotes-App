@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "MidsPrep",
-    "slug": "MidsPrep",
+    "name": "Programming-Quotes-App",
+    "slug": "programming-quotes-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
